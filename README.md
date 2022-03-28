@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lingaaeswaran
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Javascipt
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Javascript,Python,C++
+- 🌱 I’m currently learning Javascript,Python,C++
+- 💞️ I’m looking to collaborate on Javascript,Python,C++
+- 📫 How to reach me Gmail:lingeshmuthu14@gmail.com
 
 <!---
 Lingaaeswaran/Lingaaeswaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
